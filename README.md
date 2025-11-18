@@ -1,16 +1,5 @@
-The goal of this assignment is to introduce you to unsupervised learning techniques,
-including dimensionality reduction and clustering, and to explore how
-these techniques can inform feature selection in machine learning. You will work
-with the Human Activity Recognition Using Smartphones Dataset,
-which contains measurements from smartphone sensors (accelerometers and gyroscopes)
-recorded while participants performed various activities (e.g., walking,
-sitting, standing).
-The dataset consists of 561 features extracted from raw sensor data. Your
-task will be to explore the dataset, reduce its dimensionality using Principal
-Component Analysis (PCA), perform clustering, and use the insights gained
-from unsupervised learning to perform feature selection. By the end of this
-assignment, you should be able to identify the most important features and
-compare the performance of a machine learning model trained with selected
-features versus the full feature set.
-You can download the dataset from the UCI Machine Learning Repository
-at the following link: Human Activity Recognition Using Smartphones Dataset
+The goal of this assignment is to introduce you to unsupervised learning techniques, including dimensionality reduction and clustering, and to explore how these techniques can inform feature selection in machine learning. You will work with the Human Activity Recognition Using Smartphones Dataset,
+which contains measurements from smartphone sensors (accelerometers and gyroscopes) recorded while participants performed various activities (e.g., walking,sitting, standing).
+The dataset consists of 561 features extracted from raw sensor data. Yourtask will be to explore the dataset, reduce its dimensionality using Principal Component Analysis (PCA), perform clustering, and use the insights gained from unsupervised learning to perform feature selection. By the end of this
+assignment, you should be able to identify the most important features and compare the performance of a machine learning model trained with selected features versus the full feature set.
+You can download the dataset from the UCI Machine Learning Repository at the following link: Human Activity Recognition Using Smartphones Dataset
